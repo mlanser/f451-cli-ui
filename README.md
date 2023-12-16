@@ -15,7 +15,7 @@ This module is dependent on the following libraries:
 - [rich](https://pypi.org/project/pyfiglet/)
 - [sparklines](https://pypi.org/project/sparklines/)
 - [termcolor](https://pypi.org/project/termcolor/) to color Sparkline graphs
-- [f451-common](https://github.com/mlanser/f451-common.git) to create fancy logo color Sparkline graphs
+- [f451-common](https://github.com/mlanser/f451-common) to create fancy logo, etc.
 
 ### Installing from Github using `pip`
 

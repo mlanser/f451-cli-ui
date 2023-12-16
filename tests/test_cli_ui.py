@@ -2,7 +2,7 @@
 
 import pytest
 
-import src.f451_cli_ui.common as CLIUI
+import src.f451_cli_ui.cli_ui as CLIUI
 
 
 # =========================================================
