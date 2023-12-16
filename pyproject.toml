@@ -17,7 +17,8 @@ keywords = ["CLI", "UI", "f451"]
 dependencies = [
     "rich",
     "termcolor",
-    "sparklines"
+    "sparklines",
+    "f451-common"
 ]
 requires-python = ">=3.9"
 dynamic = ["version"]
