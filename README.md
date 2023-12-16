@@ -1,4 +1,4 @@
-# f451 Labs CLI UI module v0.0.0
+# f451 Labs CLI UI module v0.0.2
 
 ## Overview
 
