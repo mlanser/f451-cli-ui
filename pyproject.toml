@@ -37,7 +37,7 @@ dev = [
 Homepage = "https://github.com/mlanser/f451-cli-ui"
 
 [project.scripts]
-f451_common = "f451_cli_ui.__main__:main"
+f451_cli_ui = "f451_cli_ui.__main__:main"
 
 [tool.bumpver]
 current_version = "0.0.2"

@@ -468,3 +468,7 @@ class BaseUI:
             else:
                 self._progBar.update(self._progTaskID, completed=progUpdate) # type: ignore
                 # assert False
+
+    def rule(self, *args, **kwargs):
+        """Wrapper for Rich 'rule' function"""
+        self._console.rule(*args, **kwargs)
